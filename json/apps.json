@@ -3,42 +3,42 @@
 	{
 		"appName": "Mickey Mouse Clubhouse HD",
 		"appDescription": "Watch Mickey Mouse Clubhouse HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/mickeymouseclubhouse.png",
+		"appIconUri": "http://foofooapps.github.io/images/mickeymouseclubhouse.png",
 		"appId": "1a0fde9a-becf-494d-a175-da5e176a0959",
 		"appCode": "MickeyMouseClubhouse"
 	},
 	{
 		"appName": "Tom and Jerry HD",
 		"appDescription": "Watch Tom and Jerry HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/tomandjerry.png",
+		"appIconUri": "http://foofooapps.github.io/images/tomandjerry.png",
 		"appId": "6bcef7d7-6cca-493c-9c2f-e927a625a652",
 		"appCode": "TomAndJerry"
 	},
 	{
 		"appName": "Looney Tunes HD",
 		"appDescription": "Watch Looney Tunes HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/looneytunes.png",
+		"appIconUri": "http://foofooapps.github.io/images/looneytunes.png",
 		"appId": "07ff6708-6422-4bfe-8b0d-a6e7f76ab5e0",
 		"appCode": "LooneyTunes"
 	},
 	{
 		"appName": "The Simpsons HD",
 		"appDescription": "Watch The Simpsons HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/thesimpsons.png",
+		"appIconUri": "http://foofooapps.github.io/images/thesimpsons.png",
 		"appId": "276f5544-16c5-4722-bcab-d406de0874a3",
 		"appCode": "TheSimpsons"
 	},
 	{
 		"appName": "The Flintstones HD",
 		"appDescription": "Watch The Flintstones HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/theflinstones.png",
+		"appIconUri": "http://foofooapps.github.io/images/theflinstones.png",
 		"appId": "8ca1274d-1625-41bb-b7f1-7c49a4c655e3",
 		"appCode": "TheFlinstones"
 	},
 	{
 		"appName": "Scooby Doo HD",
 		"appDescription": "Watch Scooby Do HD episodes on your Windows Phone! Updated daily with new videos! Get the app now from Windows Phone Store!",
-		"appIconUri": "http://www.iulianvarzaru.com/wpapps/appPromoImages/scoobydoo.png",
+		"appIconUri": "http://foofooapps.github.io/images/scoobydoo.png",
 		"appId": "e157fc66-3191-4000-803a-3529b58a9fd4",
 		"appCode": "ScoobyDoo"
 	}
